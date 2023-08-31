@@ -59,6 +59,7 @@ export default () => {
       </section>
       <footer>
         Feito por Eduarda Neves Damasceno Silva<br/>
+        RA:1131392213002<br/>
         Aluna Fatec Mauá <br/>
         Direitos de imagem para_ Netflix<br/>
         FOnte De Dados site: Themoviedb.org
